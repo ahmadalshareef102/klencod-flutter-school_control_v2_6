@@ -1,0 +1,8 @@
+{
+  "version": "2.9.0",
+  "required": false,
+  "notes": "📄 كشف رصد الدرجات الفصلي بالشكل الرسمي الجديد (ترويسة وتواقيع)\n📚 كشف رصد كامل يظهر فيه جميع المواد\n📊 تصدير الكشف إلى Excel منسّقًا\n🎨 اعتماد المظهر الجديد (ألوان وخلفية كريمية)\n🎓 الشهادة على النموذج الرسمي\n⚠️ ثبّت فوق النسخة القديمة للحفاظ على البيانات.",
+  "download": "https://github.com/ahmadalshareef102/klencod-flutter-school_control_v2/releases/latest",
+  "github": "https://github.com/ahmadalshareef102/klencod-flutter-school_control_v2/releases",
+  "telegram": "https://t.me/ahmadalshareef102"
+}
